@@ -6,7 +6,10 @@ Inspired from [fabianwennink's icon captcha](https://github.com/fabianwennink/Ic
 * Made noise of the icon more controllable, instead of it being capped to a limited amount (which was originally 50).
 * Addon is now more static website focused, meaning it's easier to integrate into websites that do not use JavaScript.
 
-# To-Do
+## To-Do
 * Remove flex styling to support older browsers
 * Make the amount of icon's modifiable
 * Automatically generatable captcha, instead of c+p the current code in.
+
+## Preview
+![alt text](https://raw.githubusercontent.com/Cryptofer/icon-captcha/main/preview.png "Preview")
